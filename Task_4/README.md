@@ -1,1 +1,1 @@
-This folder contains dashboards created in PowerBI used in this project
+This folder contains images of data in this project
