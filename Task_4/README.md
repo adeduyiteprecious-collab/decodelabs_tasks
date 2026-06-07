@@ -1,1 +1,1 @@
-This folder contains SQL scripts used for data extraction and analysis
+This folder contains dashboards created in PowerBI used in this project
