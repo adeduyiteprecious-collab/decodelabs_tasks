@@ -1,1 +1,1 @@
-This folder contains extracted datasets used for the project
+This folder contains SQL scripts used for data extraction and analysis

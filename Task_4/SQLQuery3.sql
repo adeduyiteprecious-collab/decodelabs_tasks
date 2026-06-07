@@ -1,0 +1,2 @@
+RESTORE FILELISTONLY
+FROM DISK = 'C:\salesDB.bak';
